@@ -1,4 +1,5 @@
 # Tic-Tac-Toe-games
+#this is a general mini project on web developement for practice
 java-script file of this small game
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector("#reset-btn");
